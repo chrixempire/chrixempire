@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrixempire
 - 👀 I’m interested in Javascript and CSS
-- 🌱 I’m currently learning Javascript and CSS
-- 💞️ I’m looking to collaborate on Javascript Frameworks
+- 🌱 I’m currently learning vue js and Nuxt
+- 💞️ I’m looking for a Frontend Developer Internship role. Open to work with immediate effect 
 - 📫 How to reach me @anyikamaduchris@gmail.com
 
 <!---
