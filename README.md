@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @chrixempire
 - 👀 I’m a frontend developer 
-- 🌱 I’m currently working with vue js and Nuxt
-- 💞️ I’m looking for a Frontend Developer role. Open to work with immediate effect 
 - 📫 How to reach me @anyikamaduchris@gmail.com
 
 <!---
